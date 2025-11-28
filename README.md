@@ -8,6 +8,7 @@
 I’m a Data Engineer with experience building scalable data pipelines and analytical solutions using Azure, Databricks, Apache Spark, Delta Lake, and Azure Data Factory. My work focuses on modern data engineering practices including Medallion Architecture, ELT/ETL automation, orchestration, and performance optimization.
 
 I enjoy transforming raw datasets into reliable, analytics-ready data products and solving complex engineering challenges. 
+
 My Portfolio Website: https://rutujalamkane.github.io/
 
 ---
