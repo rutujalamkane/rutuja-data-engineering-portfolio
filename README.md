@@ -75,7 +75,7 @@ _(Additional in progress: AZ-900, DP-900, DP-600)_
 
 - **LinkedIn:** https://linkedin.com/in/rutuja-lamkane
 - **Email:** rutuja.lamkane.personal@gmail.com
-- **GitHub:** github.com/rutujalamkane
+- **GitHub:** https://github.com/rutujalamkane
 
 ---
 
