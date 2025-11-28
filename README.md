@@ -33,7 +33,7 @@ I enjoy transforming raw datasets into reliable, analytics-ready data products a
 
 ### 🔹 **1️⃣ Airline Analytics Platform using Medallion Architecture**
 📌 **Tech Stack:** Databricks, PySpark, Delta Lake, ADF, ADLS Gen2, Azure SQL  
-📎 Repo: _(link once uploaded)_
+📎 Repo: 
 
 **Highlights:**
 - Automated ingestion → transformation → curated layers (Bronze → Silver → Gold)
@@ -45,7 +45,7 @@ I enjoy transforming raw datasets into reliable, analytics-ready data products a
 
 ### 🔹 **2️⃣ Car Sales Data Lakehouse Pipeline**
 📌 **Tech Stack:** Azure Data Factory, Databricks, PySpark, Delta Lake  
-📎 Repo: _(link once uploaded)_
+📎 Repo: 
 
 **Key Features:**
 - Parameterized workflows for dynamic ingestion  
@@ -54,22 +54,6 @@ I enjoy transforming raw datasets into reliable, analytics-ready data products a
 
 ---
 
-### 🔹 **3️⃣ Kafka Streaming Pipeline (POC)**
-📌 **Tech Stack:** Kafka, Spark Structured Streaming, Databricks  
-📎 Repo: _(link later if created)_
-
-**What it includes:**
-- Real-time event ingestion  
-- Stream → process → write to Delta Lake  
-- Micro-batch and checkpointing enabled  
-
----
-
-### 🔹 **4️⃣ Power BI Analytics Layer (Optional)**
-📌 **Stack:** Power BI + Delta Lake + ADF  
-📎 Dashboard: _link if applicable_
-
----
 
 ## 📈 Achievements  
 - Reduced ETL execution time from **48h → 4h** using Spark optimization and Delta Lake techniques  
@@ -83,14 +67,15 @@ I enjoy transforming raw datasets into reliable, analytics-ready data products a
 - Infosys Certified MySQL Associate  
 - SQL for Data Professionals – Codebasics  
 - Power BI Data Analytics – Codebasics  
-_(Additional in progress: DP-203, Databricks DE Associate)_
+_(Additional in progress: AZ-900, DP-900, DP-600)_
 
 ---
 
 ## 🔗 Connect With Me  
 
 - **LinkedIn:** https://linkedin.com/in/rutuja-lamkane
-- **Email:** rutuja.lamkane.personal@gmail.com  
+- **Email:** rutuja.lamkane.personal@gmail.com
+- **GitHub:** github.com/rutujalamkane
 
 ---
 
