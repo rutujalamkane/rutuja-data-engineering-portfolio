@@ -67,7 +67,7 @@ I enjoy transforming raw datasets into reliable, analytics-ready data products a
 - Infosys Certified MySQL Associate  
 - SQL for Data Professionals – Codebasics  
 - Power BI Data Analytics – Codebasics  
-_(Additional in progress: AZ-900, DP-900, DP-600)_
+_(Additional in progress: AZ-900, DP-900, DP-700)_
 
 ---
 
